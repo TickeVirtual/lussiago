@@ -235,8 +235,8 @@ statusMessage.className = 'loading';
 
 sendMessageButton.disabled = true; // Deshabilitar botón mientras se envía
 
-        const url = "https://mensajero-evolution-api.ykf6ye.easypanel.host/message/sendMedia/lavandiasurcoinstancia"; // Cambia NOMBRE_INSTANCIA
-        const apikey = "63F783149485-491F-A852-0EAE47DE2920"; // Coloca aquí tu API key
+        const url = "https://mensajero-evolution-api.ykf6ye.easypanel.host/message/sendMedia/lussiago"; // Cambia NOMBRE_INSTANCIA
+        const apikey = "63F783149485-491F-A852-0EAEXXXXXXX"; // Coloca aquí tu API key
         const numeroTelefono = `+51${telefono}`; // Coloca el número de teléfono del destinatario
         const longURL = window.location.href; // Obtiene la URL actual
 
@@ -348,6 +348,7 @@ function redondearPersonalizado(valor) {
 
 
                         
+
 
 
 
